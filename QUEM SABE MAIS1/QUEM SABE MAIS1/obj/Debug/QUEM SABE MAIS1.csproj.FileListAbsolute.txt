@@ -1,0 +1,49 @@
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form1.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form2.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form3.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form4.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form5.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Properties.Resources.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.csproj.GenerateResource.Cache
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\bin\Debug\QUEM SABE MAIS1.exe
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\bin\Debug\QUEM SABE MAIS1.pdb
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.exe
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.pdb
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form6.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.exe
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.pdb
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\bin\Debug\QUEM SABE MAIS1.exe
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\bin\Debug\QUEM SABE MAIS1.pdb
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form1.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form2.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form3.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form5.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Properties.Resources.resources
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.csproj.GenerateResource.Cache
+E:\Documents and Settings\Jotacísio\Meus documentos\Visual Studio 2008\Projects\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form7.resources
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.exe
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.pdb
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\bin\Debug\QUEM SABE MAIS1.exe
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\bin\Debug\QUEM SABE MAIS1.pdb
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.csprojResolveAssemblyReference.cache
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form1.resources
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form2.resources
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form3.resources
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form5.resources
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form7.resources
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Properties.Resources.resources
+E:\Educação\IFRN\2 - Programação\Meus Programas\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.csproj.GenerateResource.Cache
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.exe
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.pdb
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.csprojResolveAssemblyReference.cache
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form1.resources
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form2.resources
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form3.resources
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form5.resources
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Form7.resources
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM_SABE_MAIS.Properties.Resources.resources
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\obj\Debug\QUEM SABE MAIS1.csproj.GenerateResource.Cache
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\bin\Debug\QUEM SABE MAIS1.exe
+D:\All projects\game\game\QUEM SABE MAIS1\QUEM SABE MAIS1\bin\Debug\QUEM SABE MAIS1.pdb
